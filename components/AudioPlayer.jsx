@@ -86,6 +86,7 @@ const AudioPlayer = () => {
         height={200}
         className="rounded-full shadow-md"
       />
+      
       <h2 className="text-2xl font-bold">{tracks[currentTrack].title}</h2>
 
       <input
